@@ -1,0 +1,166 @@
+{
+  "supplierOverview": [
+    {
+      "name": "Palmer, Martinez and Howard",
+      "medicineCount": 4
+    },
+    {
+      "name": "Haas LLC",
+      "medicineCount": 0
+    },
+    {
+      "name": "Garcia, Hernandez and King",
+      "medicineCount": 7
+    },
+    {
+      "name": "Parker-Roberts",
+      "medicineCount": 5
+    },
+    {
+      "name": "Orang Tua Group",
+      "medicineCount": 0
+    }
+  ],
+  "categoryDistribution": [
+    {
+      "name": "Pain Relief",
+      "medicineCount": 3
+    },
+    {
+      "name": "Antibiotics",
+      "medicineCount": 4
+    },
+    {
+      "name": "Vitamins",
+      "medicineCount": 4
+    },
+    {
+      "name": "Cardiovascular",
+      "medicineCount": 2
+    },
+    {
+      "name": "Dermatology",
+      "medicineCount": 3
+    }
+  ],
+  "transactionTrends": [
+    {
+      "date": "2024-10-20",
+      "totalPrice": 8828.880000000001
+    }
+  ],
+  "operatorPerformance": [
+    {
+      "name": "Krisdayanti",
+      "transactionCount": 0
+    },
+    {
+      "name": "Agus",
+      "transactionCount": 0
+    },
+    {
+      "name": "Sela",
+      "transactionCount": 0
+    },
+    {
+      "name": "Fadhil",
+      "transactionCount": 0
+    },
+    {
+      "name": "Budak",
+      "transactionCount": 4
+    }
+  ],
+  "expiryAnalysis": [
+    {
+      "range": "6-10",
+      "count": 2
+    },
+    {
+      "range": "1-5",
+      "count": 3
+    },
+    {
+      "range": ">30",
+      "count": 2
+    },
+    {
+      "range": "21-25",
+      "count": 3
+    },
+    {
+      "range": "26-30",
+      "count": 1
+    },
+    {
+      "range": "11-15",
+      "count": 3
+    },
+    {
+      "range": "16-20",
+      "count": 1
+    }
+  ],
+  "priceDistribution": [
+    44.71, 25.2, 34, 22.32, 25.04, 28.3, 6.14, 66.22, 64.4, 73.32, 7.1, 61.64,
+    60.26, 15.17, 57.43, 57.45
+  ],
+  "medicineNearExpiry": [
+    {
+      "name": "Lisinopril",
+      "expiryDate": "2024-10-26"
+    },
+    {
+      "name": "Metformin",
+      "expiryDate": "2024-10-22"
+    },
+    {
+      "name": "Omeprazole",
+      "expiryDate": "2024-11-11"
+    },
+    {
+      "name": "Lisinopril",
+      "expiryDate": "2024-11-17"
+    },
+    {
+      "name": "Omeprazole",
+      "expiryDate": "2024-10-26"
+    },
+    {
+      "name": "Simvastatin",
+      "expiryDate": "2024-11-02"
+    },
+    {
+      "name": "Cetirizine",
+      "expiryDate": "2024-10-31"
+    },
+    {
+      "name": "Amoxicillin",
+      "expiryDate": "2024-11-02"
+    },
+    {
+      "name": "Amoxicillin",
+      "expiryDate": "2024-10-18"
+    },
+    {
+      "name": "Levothyroxine",
+      "expiryDate": "2024-10-25"
+    },
+    {
+      "name": "Metformin",
+      "expiryDate": "2024-11-11"
+    },
+    {
+      "name": "Aspirin",
+      "expiryDate": "2024-10-22"
+    },
+    {
+      "name": "Aspirin",
+      "expiryDate": "2024-11-14"
+    },
+    {
+      "name": "Ibuprofen",
+      "expiryDate": "2024-11-07"
+    }
+  ]
+}
